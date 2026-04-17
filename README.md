@@ -1,2 +1,3 @@
-# Compact-.py-calculator
+# Compact .py calculator
 Python Calculator
+##################
